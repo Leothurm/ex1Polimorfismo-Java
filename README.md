@@ -1,4 +1,4 @@
-# Desafio-Empregados
+# EXERCÍCIO POLIMORFISMO
 
 >### Status: Finished ✔️
 
@@ -10,7 +10,7 @@
 ---
 
 >## SOBRE ❓
-> Desafio para exercitar a programação orientada a objeto utilizando os conceitos de classes, atributos, métodos, objetos, construtores, encapsulamento, tipos enumerados e listas.<br><br>
+> Desafio para exercitar a programação orientada a objeto utilizando os conceitos de polimorfismo, classes, atributos, métodos, objetos, construtores, encapsulamento e listas.<br><br>
 
 ---
 
@@ -19,12 +19,12 @@
 ## Enunciado 
 
 
-<img src="https://github.com/Leothurm/Desafio-Empregados/blob/main/img/empregados%20enunciado.PNG">
+<img src="https://github.com/Leothurm/ex1Polimorfismo-Java/blob/main/img/EnunciadoPolimorfismo.PNG">
 
 
 ## Estrutura
 
-<img src="https://github.com/Leothurm/Desafio-Empregados/blob/main/img/estruturaempregados.PNG">
+<img src="https://github.com/Leothurm/ex1Polimorfismo-Java/blob/main/img/Estrutura.PNG">
 
 </div>
 
